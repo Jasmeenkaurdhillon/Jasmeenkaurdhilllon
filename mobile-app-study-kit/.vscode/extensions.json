@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "ionic.ionic",
+    "angular.ng-template",
+    "johnpapa.angular2",
+    "formulahendry.auto-rename-tag",
+    "esbenp.prettier-vscode",
+    "yzhang.markdown-all-in-one",
+    "hediet.vscode-drawio",
+    "streetsidesoftware.code-spell-checker",
+    "github.vscode-pull-request-github"
+  ]
+}
